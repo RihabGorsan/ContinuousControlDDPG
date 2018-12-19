@@ -49,4 +49,4 @@ Enviroment solved in @ i_episode=243, w/ avg_score=30.27
 
 # Improvements
 
-* As future improvements, I would like to implement [Distributed Distributional Deterministic Policy Gradients (D4PG)](https://openreview.net/forum?id=SyZipzbCb) algorithm and compare its performance with the current impelmentation of DDPG in playing the Tennis environment.
+* As future improvements, I would like to implement [Distributed Distributional Deterministic Policy Gradients (D4PG)](https://openreview.net/forum?id=SyZipzbCb) algorithm and compare its performance with the current impelmentation of DDPG.
